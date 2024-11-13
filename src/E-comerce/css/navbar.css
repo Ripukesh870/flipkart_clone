@@ -1,0 +1,61 @@
+.n-container{
+    /* border: 2px solid red; */
+    background-color: rgb(243, 242, 242);
+    /* background-color: rgb(232, 234, 236); */
+    display: flex;
+    /* padding: auto 10px; */
+    justify-content: space-between;
+    padding: 0px 40px;
+    border-bottom: 2px solid rgb(231, 231, 231);
+}
+
+.n-logo{
+    /* border: 2px solid red; */
+    width: 150px;
+    /* background-image: url('../../image/logo.png'); */
+    /* height: 200px; */
+}
+
+.n-logo img{
+    /* border: 2px solid red; */
+    width: 150px;
+    height: 70px;
+}
+
+.n-search{
+    border: 2px solid rgb(227, 226, 226);
+    width: 39%;
+    /* height: fit-content; */
+    margin: auto 10px;
+    padding: 1px 10px;
+    border-radius: 20px;
+    background-color: rgb(232, 234, 236);
+}
+
+.n-search-bar{
+    width: 85%;
+    border: none;
+    /* border: 2px solid red; */
+    font-size: large;
+    background-color: rgb(232, 234, 236);
+    margin: 0px 10px;
+    outline: none;
+}
+
+.n-button-box{
+    /* border: 2px solid red; */
+    margin: auto 0px;
+    
+}
+
+.n-btn{
+    border: none;
+    margin: 0px 8px;
+    background-color: rgb(235, 235, 235);
+    /* font-weight: bold; */
+    font-size: large;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 20px;
+    padding: 0px 10px;
+    
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "product": "Top Offer",
+        "no_items": "20",
+        "image": "./image/i1.jpg"
+    },
+    {
+        "id": "2",
+        "product": "Electronic",
+        "no_items": "20",
+        "image": "./image/i2.jpg"
+    },
+    {
+        "id": "3",
+        "product": "Laptop & PCs",
+        "no_items": "20",
+        "image": "./image/i3.jpg"
+    },
+    {
+        "id": "4",
+        "product": "Appliances",
+        "no_items": "30",
+        "image": "./image/i4.jpg"
+    },
+    {
+        "id": "5",
+        "product": "Fashion",
+        "no_items": "20",
+        "image": "./image/i5.jpg"
+    },
+    {
+        "id": "6",
+        "product": "Beauty, Toy & More",
+        "no_items": "20",
+        "image": "./image/i6.jpg"
+    },
+    {
+        "id": "7",
+        "product": "Electronic",
+        "no_items": "20",
+        "image": "./image/i7.jpg"
+    },
+    {
+        "id": "8",
+        "product": "Flight Booking",
+        "no_items": "20",
+        "image": "./image/i8.webp"
+    },
+    {
+        "id": "9",
+        "product": "Grocery",
+        "no_items": "30",
+        "image": "./image/i9.webp"
+    },
+    {
+        "id": "10",
+        "product": "Home & Furniture",
+        "no_items": "20",
+        "image": "./image/i10.webp"
+    }
+]

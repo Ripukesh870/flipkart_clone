@@ -1,0 +1,80 @@
+/* DropdownWithDropright.css */
+
+/* Main dropdown container */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    /* border: 2px solid red; */
+  }
+  
+  /* Main drop-down button styling */
+  .dropbtn {
+    /* background-color: #3498db; */
+    /* color: white; */
+    /* padding: 12px 20px; */
+    /* font-size: 16px; */
+    /* border: none; */
+    /* cursor: pointer; */
+  }
+  
+  /* Drop-down content */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    margin-left: 25px;
+  }
+  
+  /* Links inside the drop-down */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Hover effect on drop-down links */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Show drop-down content on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* Right arrow for the drop-right */
+  .arrow-right {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
+  /* Drop-right submenu */
+  .dropright {
+    position: relative;
+  }
+  
+  /* Drop-right content */
+  .dropright-content {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  /* Show the drop-right content on hover */
+  .dropright:hover .dropright-content {
+    display: block;
+  }
+  

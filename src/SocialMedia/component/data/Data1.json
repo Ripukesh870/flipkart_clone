@@ -1,0 +1,353 @@
+{
+    "products": {
+      "electronic_items": [
+        {
+          "name": "Apple iPhone 14",
+          "category": "Mobile Phone",
+          "specifications": {
+            "storage": "128 GB",
+            "ram": "6 GB",
+            "camera": "12 MP",
+            "battery": "3279 mAh"
+          },
+          "price": 799.00,
+          "image_url": "https://example.com/images/iphone14.jpg"
+        },
+        {
+          "name": "Samsung Galaxy S23",
+          "category": "Mobile Phone",
+          "specifications": {
+            "storage": "256 GB",
+            "ram": "8 GB",
+            "camera": "50 MP",
+            "battery": "3900 mAh"
+          },
+          "price": 999.00,
+          "image_url": "https://example.com/images/galaxy-s23.jpg"
+        },
+        {
+          "name": "MacBook Air M2",
+          "category": "Laptop",
+          "specifications": {
+            "processor": "Apple M2",
+            "ram": "8 GB",
+            "storage": "256 GB SSD",
+            "screen_size": "13.6 inch"
+          },
+          "price": 999.00,
+          "image_url": "https://example.com/images/macbook-air-m2.jpg"
+        },
+        {
+          "name": "Dell XPS 13",
+          "category": "Laptop",
+          "specifications": {
+            "processor": "Intel Core i7",
+            "ram": "16 GB",
+            "storage": "512 GB SSD",
+            "screen_size": "13.4 inch"
+          },
+          "price": 1249.00,
+          "image_url": "https://example.com/images/dell-xps-13.jpg"
+        },
+        {
+          "name": "HP Spectre x360",
+          "category": "Laptop",
+          "specifications": {
+            "processor": "Intel Core i7",
+            "ram": "16 GB",
+            "storage": "1 TB SSD",
+            "screen_size": "13.3 inch"
+          },
+          "price": 1399.00,
+          "image_url": "https://example.com/images/hp-spectre-x360.jpg"
+        },
+        {
+          "name": "Sony WH-1000XM4",
+          "category": "Headphones",
+          "specifications": {
+            "type": "Over-Ear",
+            "battery_life": "30 hours",
+            "noise_cancellation": "Yes"
+          },
+          "price": 349.00,
+          "image_url": "https://example.com/images/sony-wh1000xm4.jpg"
+        },
+        {
+          "name": "Bose QuietComfort 35 II",
+          "category": "Headphones",
+          "specifications": {
+            "type": "Over-Ear",
+            "battery_life": "20 hours",
+            "noise_cancellation": "Yes"
+          },
+          "price": 299.00,
+          "image_url": "https://example.com/images/bose-qc35ii.jpg"
+        },
+        {
+          "name": "Apple AirPods Pro",
+          "category": "Earbuds",
+          "specifications": {
+            "battery_life": "4.5 hours",
+            "noise_cancellation": "Yes",
+            "water_resistant": "Yes"
+          },
+          "price": 249.00,
+          "image_url": "https://example.com/images/airpods-pro.jpg"
+        },
+        {
+          "name": "Samsung Galaxy Buds 2",
+          "category": "Earbuds",
+          "specifications": {
+            "battery_life": "5 hours",
+            "noise_cancellation": "Yes",
+            "water_resistant": "Yes"
+          },
+          "price": 149.00,
+          "image_url": "https://example.com/images/galaxy-buds2.jpg"
+        },
+        {
+          "name": "Samsung Galaxy Z Flip4",
+          "category": "Mobile Phone",
+          "specifications": {
+            "storage": "256 GB",
+            "ram": "8 GB",
+            "camera": "12 MP",
+            "battery": "3700 mAh"
+          },
+          "price": 999.00,
+          "image_url": "https://example.com/images/galaxy-z-flip4.jpg"
+        },
+        {
+          "name": "Logitech MX Master 3",
+          "category": "Mouse",
+          "specifications": {
+            "connection": "Wireless",
+            "battery_life": "70 days",
+            "features": "Ergonomic"
+          },
+          "price": 99.99,
+          "image_url": "https://example.com/images/logitech-mx-master3.jpg"
+        }
+      ],
+      "grocery_items": [
+        {
+          "name": "Tomatoes",
+          "category": "Vegetables",
+          "quantity": "1 kg",
+          "price": 1.99,
+          "image_url": "https://example.com/images/tomatoes.jpg"
+        },
+        {
+          "name": "Cucumber",
+          "category": "Vegetables",
+          "quantity": "1 piece",
+          "price": 0.99,
+          "image_url": "https://example.com/images/cucumber.jpg"
+        },
+        {
+          "name": "Spinach",
+          "category": "Vegetables",
+          "quantity": "250 grams",
+          "price": 1.50,
+          "image_url": "https://example.com/images/spinach.jpg"
+        },
+        {
+          "name": "Dark Chocolate",
+          "category": "Snacks",
+          "quantity": "3.5 oz",
+          "price": 2.99,
+          "image_url": "https://example.com/images/dark-chocolate.jpg"
+        },
+        {
+          "name": "Frozen Pizza",
+          "category": "Frozen Foods",
+          "quantity": "12 inch",
+          "price": 6.99,
+          "image_url": "https://example.com/images/frozen-pizza.jpg"
+        },
+        {
+          "name": "Canned Beans",
+          "category": "Canned Goods",
+          "quantity": "15 oz",
+          "price": 1.50,
+          "image_url": "https://example.com/images/canned-beans.jpg"
+        },
+        {
+          "name": "Brown Rice",
+          "category": "Grains",
+          "quantity": "2 kg",
+          "price": 4.49,
+          "image_url": "https://example.com/images/brown-rice.jpg"
+        },
+        {
+          "name": "Almonds",
+          "category": "Nuts",
+          "quantity": "200 grams",
+          "price": 5.99,
+          "image_url": "https://example.com/images/almonds.jpg"
+        },
+        {
+          "name": "Oatmeal",
+          "category": "Breakfast",
+          "quantity": "500 grams",
+          "price": 3.29,
+          "image_url": "https://example.com/images/oatmeal.jpg"
+        },
+        {
+          "name": "Organic Honey",
+          "category": "Condiments",
+          "quantity": "250 grams",
+          "price": 4.99,
+          "image_url": "https://example.com/images/honey.jpg"
+        }
+      ],
+      "mobile_phones": [
+        {
+          "name": "Google Pixel 7",
+          "category": "Mobile Phone",
+          "specifications": {
+            "storage": "128 GB",
+            "ram": "8 GB",
+            "camera": "50 MP",
+            "battery": "4355 mAh"
+          },
+          "price": 599.00,
+          "image_url": "https://example.com/images/pixel-7.jpg"
+        },
+        {
+          "name": "Xiaomi Redmi Note 11",
+          "category": "Mobile Phone",
+          "specifications": {
+            "storage": "128 GB",
+            "ram": "6 GB",
+            "camera": "50 MP",
+            "battery": "5000 mAh"
+          },
+          "price": 199.00,
+          "image_url": "https://example.com/images/redmi-note-11.jpg"
+        },
+        {
+          "name": "Nokia G20",
+          "category": "Mobile Phone",
+          "specifications": {
+            "storage": "64 GB",
+            "ram": "4 GB",
+            "camera": "48 MP",
+            "battery": "5050 mAh"
+          },
+          "price": 249.00,
+          "image_url": "https://example.com/images/nokia-g20.jpg"
+        },
+        {
+          "name": "Sony Xperia 10 IV",
+          "category": "Mobile Phone",
+          "specifications": {
+            "storage": "128 GB",
+            "ram": "6 GB",
+            "camera": "12 MP",
+            "battery": "5000 mAh"
+          },
+          "price": 399.00,
+          "image_url": "https://example.com/images/xperia-10-iv.jpg"
+        }
+      ],
+      "laptops": [
+        {
+          "name": "Lenovo ThinkPad X1 Carbon",
+          "category": "Laptop",
+          "specifications": {
+            "processor": "Intel Core i7",
+            "ram": "16 GB",
+            "storage": "512 GB SSD",
+            "screen_size": "14 inch"
+          },
+          "price": 1399.00,
+          "image_url": "https://example.com/images/lenovo-thinkpad-x1.jpg"
+        },
+        {
+          "name": "ASUS ROG Zephyrus G14",
+          "category": "Laptop",
+          "specifications": {
+            "processor": "AMD Ryzen 9",
+            "ram": "32 GB",
+            "storage": "1 TB SSD",
+            "screen_size": "14 inch"
+          },
+          "price": 1899.00,
+          "image_url": "https://example.com/images/asus-rog-zephyrus-g14.jpg"
+        }
+      ],
+      "earphones": [
+        {
+          "name": "Jabra Elite 75t",
+          "category": "Earbuds",
+          "specifications": {
+            "battery_life": "7.5 hours",
+            "noise_cancellation": "Yes",
+            "water_resistant": "Yes"
+          },
+          "price": 199.00,
+          "image_url": "https://example.com/images/jabra-elite-75t.jpg"
+        },
+        {
+          "name": "Anker Soundcore Life P3",
+          "category": "Earbuds",
+          "specifications": {
+            "battery_life": "7 hours",
+            "noise_cancellation": "Yes",
+            "water_resistant": "Yes"
+          },
+          "price": 99.00,
+          "image_url": "https://example.com/images/anker-soundcore-p3.jpg"
+        }
+      ],
+      "neckbands": [
+        {
+          "name": "OnePlus Bullets Wireless Z",
+          "category": "Neckband",
+          "specifications": {
+            "battery_life": "20 hours",
+            "water_resistant": "Yes",
+            "fast_charging": "Yes"
+          },
+          "price": 59.00,
+          "image_url": "https://example.com/images/oneplus-bullets-z.jpg"
+        },
+        {
+          "name": "JBL Tune 215BT",
+          "category": "Neckband",
+          "specifications": {
+            "battery_life": "16 hours",
+            "water_resistant": "Yes",
+            "features": "Voice Assistant"
+          },
+          "price": 49.00,
+          "image_url": "https://example.com/images/jbl-tune-215bt.jpg"
+        }
+      ],
+      "speakers": [
+        {
+          "name": "JBL Flip 5",
+          "category": "Portable Speaker",
+          "specifications": {
+            "battery_life": "12 hours",
+            "water_resistant": "Yes",
+            "bluetooth": "Yes"
+          },
+          "price": 119.00,
+          "image_url": "https://example.com/images/jbl-flip5.jpg"
+        },
+        {
+          "name": "Sonos One",
+          "category": "Smart Speaker",
+          "specifications": {
+            "features": "Voice Control, Wi-Fi",
+            "battery_life": "Plugged In"
+          },
+          "price": 199.00,
+          "image_url": "https://example.com/images/sonos-one.jpg"
+        }
+      ]
+    }
+  }
+  

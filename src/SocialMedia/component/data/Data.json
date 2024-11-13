@@ -1,0 +1,1395 @@
+{
+    "mobile_phones": [
+        {
+            "brand": "Apple",
+            "model": "iPhone 15",
+            "operating_system": "iOS 17",
+            "display_size": "6.1 inches",
+            "battery_capacity": "3279 mAh",
+            "camera": {
+                "rear": "48 MP + 12 MP",
+                "front": "12 MP"
+            },
+            "storage_options": [
+                "128GB",
+                "256GB",
+                "512GB"
+            ],
+            "price": 999,
+            "image_url": "https://example.com/images/iphone15.jpg"
+        },
+        {
+            "brand": "Samsung",
+            "model": "Galaxy S23",
+            "operating_system": "Android 13",
+            "display_size": "6.8 inches",
+            "battery_capacity": "5000 mAh",
+            "camera": {
+                "rear": "108 MP + 10 MP + 10 MP + 12 MP",
+                "front": "40 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB",
+                "1TB"
+            ],
+            "price": 1199,
+            "image_url": "https://example.com/images/galaxys23.jpg"
+        },
+        {
+            "brand": "Google",
+            "model": "Pixel 8",
+            "operating_system": "Android 14",
+            "display_size": "6.3 inches",
+            "battery_capacity": "4350 mAh",
+            "camera": {
+                "rear": "50 MP + 12 MP",
+                "front": "10.8 MP"
+            },
+            "storage_options": [
+                "128GB",
+                "256GB"
+            ],
+            "price": 899,
+            "image_url": "https://example.com/images/pixel8.jpg"
+        },
+        {
+            "brand": "OnePlus",
+            "model": "OnePlus 11",
+            "operating_system": "Android 13",
+            "display_size": "6.7 inches",
+            "battery_capacity": "5000 mAh",
+            "camera": {
+                "rear": "50 MP + 48 MP + 32 MP",
+                "front": "16 MP"
+            },
+            "storage_options": [
+                "128GB",
+                "256GB"
+            ],
+            "price": 799,
+            "image_url": "https://example.com/images/oneplus11.jpg"
+        },
+        {
+            "brand": "Xiaomi",
+            "model": "Mi 13",
+            "operating_system": "MIUI 14 (Android 13)",
+            "display_size": "6.36 inches",
+            "battery_capacity": "4500 mAh",
+            "camera": {
+                "rear": "50 MP + 12 MP + 10 MP",
+                "front": "32 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB"
+            ],
+            "price": 749,
+            "image_url": "https://example.com/images/mi13.jpg"
+        },
+        {
+            "brand": "Sony",
+            "model": "Xperia 1 V",
+            "operating_system": "Android 13",
+            "display_size": "6.5 inches",
+            "battery_capacity": "5000 mAh",
+            "camera": {
+                "rear": "12 MP + 12 MP + 12 MP",
+                "front": "12 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB"
+            ],
+            "price": 1299,
+            "image_url": "https://example.com/images/xperia1v.jpg"
+        },
+        {
+            "brand": "Motorola",
+            "model": "Edge 40 Pro",
+            "operating_system": "Android 13",
+            "display_size": "6.67 inches",
+            "battery_capacity": "4600 mAh",
+            "camera": {
+                "rear": "50 MP + 50 MP + 12 MP",
+                "front": "60 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB"
+            ],
+            "price": 899,
+            "image_url": "https://example.com/images/edge40pro.jpg"
+        },
+        {
+            "brand": "Huawei",
+            "model": "P60 Pro",
+            "operating_system": "HarmonyOS 3.1",
+            "display_size": "6.67 inches",
+            "battery_capacity": "4815 mAh",
+            "camera": {
+                "rear": "48 MP + 48 MP + 13 MP",
+                "front": "13 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB"
+            ],
+            "price": 1199,
+            "image_url": "https://example.com/images/p60pro.jpg"
+        },
+        {
+            "brand": "Realme",
+            "model": "Realme GT 5",
+            "operating_system": "Android 13",
+            "display_size": "6.74 inches",
+            "battery_capacity": "5240 mAh",
+            "camera": {
+                "rear": "50 MP + 8 MP + 2 MP",
+                "front": "16 MP"
+            },
+            "storage_options": [
+                "128GB",
+                "256GB"
+            ],
+            "price": 699,
+            "image_url": "https://example.com/images/realmegt5.jpg"
+        },
+        {
+            "brand": "Vivo",
+            "model": "X90 Pro",
+            "operating_system": "Android 13",
+            "display_size": "6.78 inches",
+            "battery_capacity": "4870 mAh",
+            "camera": {
+                "rear": "50 MP + 50 MP + 12 MP",
+                "front": "32 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB"
+            ],
+            "price": 999,
+            "image_url": "https://example.com/images/x90pro.jpg"
+        },
+        {
+            "brand": "Oppo",
+            "model": "Find X6 Pro",
+            "operating_system": "Android 13",
+            "display_size": "6.82 inches",
+            "battery_capacity": "5000 mAh",
+            "camera": {
+                "rear": "50 MP + 50 MP + 50 MP",
+                "front": "32 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB"
+            ],
+            "price": 1099,
+            "image_url": "https://example.com/images/findx6pro.jpg"
+        },
+        {
+            "brand": "Nokia",
+            "model": "Nokia XR21",
+            "operating_system": "Android 12",
+            "display_size": "6.49 inches",
+            "battery_capacity": "4800 mAh",
+            "camera": {
+                "rear": "64 MP + 8 MP",
+                "front": "16 MP"
+            },
+            "storage_options": [
+                "128GB",
+                "256GB"
+            ],
+            "price": 599,
+            "image_url": "https://example.com/images/nokiaxr21.jpg"
+        },
+        {
+            "brand": "Asus",
+            "model": "ROG Phone 7",
+            "operating_system": "Android 13",
+            "display_size": "6.78 inches",
+            "battery_capacity": "6000 mAh",
+            "camera": {
+                "rear": "50 MP + 13 MP + 5 MP",
+                "front": "32 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB"
+            ],
+            "price": 999,
+            "image_url": "https://example.com/images/rogphone7.jpg"
+        },
+        {
+            "brand": "Lenovo",
+            "model": "Legion Phone Duel 2",
+            "operating_system": "Android 12",
+            "display_size": "6.92 inches",
+            "battery_capacity": "5500 mAh",
+            "camera": {
+                "rear": "64 MP + 16 MP",
+                "front": "44 MP"
+            },
+            "storage_options": [
+                "256GB",
+                "512GB"
+            ],
+            "price": 799,
+            "image_url": "https://example.com/images/legionphone2.jpg"
+        },
+        {
+            "brand": "TCL",
+            "model": "TCL 40 X 5G",
+            "operating_system": "Android 13",
+            "display_size": "6.56 inches",
+            "battery_capacity": "5000 mAh",
+            "camera": {
+                "rear": "50 MP + 2 MP + 2 MP",
+                "front": "8 MP"
+            },
+            "storage_options": [
+                "64GB",
+                "128GB"
+            ],
+            "price": 349,
+            "image_url": "https://example.com/images/tcl40x.jpg"
+        }
+    ],
+    "computers_laptops": [
+        {
+            "brand": "Apple",
+            "model": "MacBook Air M2",
+            "type": "Laptop",
+            "operating_system": "macOS",
+            "processor": "Apple M2",
+            "ram": "8GB",
+            "storage": "256GB SSD",
+            "display_size": "13.6 inches",
+            "battery_life": "18 hours",
+            "price": 1199,
+            "image_url": "https://www.apple.com/newsroom/images/product/macbook/standard/Apple_MacBook-Air.jpg"
+        },
+        {
+            "brand": "Dell",
+            "model": "XPS 13",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i7-1165G7",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display_size": "13.4 inches",
+            "battery_life": "14 hours",
+            "price": 999,
+            "image_url": "https://example.com/images/dell-xps13.jpg"
+        },
+        {
+            "brand": "HP",
+            "model": "Spectre x360",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i7-1250U",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display_size": "13.5 inches",
+            "battery_life": "12 hours",
+            "price": 1299,
+            "image_url": "https://example.com/images/hp-spectre-x360.jpg"
+        },
+        {
+            "brand": "Lenovo",
+            "model": "ThinkPad X1 Carbon Gen 9",
+            "type": "Laptop",
+            "operating_system": "Windows 10 Pro",
+            "processor": "Intel Core i7-1185G7",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display_size": "14 inches",
+            "battery_life": "15 hours",
+            "price": 1399,
+            "image_url": "https://example.com/images/lenovo-thinkpad-x1.jpg"
+        },
+        {
+            "brand": "Asus",
+            "model": "ROG Strix G15",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "AMD Ryzen 9 5900HX",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display_size": "15.6 inches",
+            "battery_life": "10 hours",
+            "price": 1499,
+            "image_url": "https://example.com/images/asus-rog-strix-g15.jpg"
+        },
+        {
+            "brand": "Microsoft",
+            "model": "Surface Laptop 5",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i5-1240P",
+            "ram": "8GB",
+            "storage": "256GB SSD",
+            "display_size": "13.5 inches",
+            "battery_life": "17 hours",
+            "price": 999,
+            "image_url": "https://example.com/images/surface-laptop-5.jpg"
+        },
+        {
+            "brand": "Acer",
+            "model": "Predator Helios 300",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i7-11800H",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display_size": "15.6 inches",
+            "battery_life": "6 hours",
+            "price": 1399,
+            "image_url": "https://example.com/images/acer-predator-helios.jpg"
+        },
+        {
+            "brand": "Razer",
+            "model": "Blade 15",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i7-12800H",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display_size": "15.6 inches",
+            "battery_life": "8 hours",
+            "price": 2399,
+            "image_url": "https://example.com/images/razer-blade-15.jpg"
+        },
+        {
+            "brand": "Apple",
+            "model": "iMac 24-inch M1",
+            "type": "Desktop",
+            "operating_system": "macOS",
+            "processor": "Apple M1",
+            "ram": "8GB",
+            "storage": "256GB SSD",
+            "display_size": "24 inches",
+            "battery_life": "N/A",
+            "price": 1299,
+            "image_url": "https://www.apple.com/newsroom/images/product/imac/standard/Apple_iMac.jpg"
+        },
+        {
+            "brand": "HP",
+            "model": "Pavilion Gaming Desktop",
+            "type": "Desktop",
+            "operating_system": "Windows 11",
+            "processor": "AMD Ryzen 5 5600G",
+            "ram": "8GB",
+            "storage": "512GB SSD",
+            "display_size": "N/A",
+            "battery_life": "N/A",
+            "price": 799,
+            "image_url": "https://example.com/images/hp-pavilion-gaming-desktop.jpg"
+        },
+        {
+            "brand": "Dell",
+            "model": "Alienware Aurora R13",
+            "type": "Desktop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i9-12900KF",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display_size": "N/A",
+            "battery_life": "N/A",
+            "price": 2999,
+            "image_url": "https://example.com/images/dell-alienware-aurora-r13.jpg"
+        },
+        {
+            "brand": "MSI",
+            "model": "GE76 Raider",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i9-11980HK",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display_size": "17.3 inches",
+            "battery_life": "6 hours",
+            "price": 2499,
+            "image_url": "https://example.com/images/msi-ge76-raider.jpg"
+        },
+        {
+            "brand": "Asus",
+            "model": "ZenBook Duo 14",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i7-1165G7",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display_size": "14 inches",
+            "battery_life": "9 hours",
+            "price": 1299,
+            "image_url": "https://example.com/images/asus-zenbook-duo-14.jpg"
+        },
+        {
+            "brand": "Lenovo",
+            "model": "IdeaPad Gaming 3",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "AMD Ryzen 7 5800H",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display_size": "15.6 inches",
+            "battery_life": "7 hours",
+            "price": 899,
+            "image_url": "https://example.com/images/lenovo-ideapad-gaming-3.jpg"
+        },
+        {
+            "brand": "HP",
+            "model": "Envy x360",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i5-1135G7",
+            "ram": "8GB",
+            "storage": "256GB SSD",
+            "display_size": "13.3 inches",
+            "battery_life": "12 hours",
+            "price": 849,
+            "image_url": "https://example.com/images/hp-envy-x360.jpg"
+        },
+        {
+            "brand": "Acer",
+            "model": "Aspire 5",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i5-1135G7",
+            "ram": "8GB",
+            "storage": "512GB SSD",
+            "display_size": "15.6 inches",
+            "battery_life": "8 hours",
+            "price": 549,
+            "image_url": "https://example.com/images/acer-aspire-5.jpg"
+        },
+        {
+            "brand": "Dell",
+            "model": "G15 Gaming Laptop",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i5-12500H",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display_size": "15.6 inches",
+            "battery_life": "6 hours",
+            "price": 899,
+            "image_url": "https://example.com/images/dell-g15-gaming.jpg"
+        },
+        {
+            "brand": "Microsoft",
+            "model": "Surface Pro 9",
+            "type": "2-in-1 Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i7-1255U",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "display_size": "13 inches",
+            "battery_life": "10 hours",
+            "price": 1399,
+            "image_url": "https://example.com/images/surface-pro-9.jpg"
+        },
+        {
+            "brand": "HP",
+            "model": "Omen 45L",
+            "type": "Desktop",
+            "operating_system": "Windows 11",
+            "processor": "AMD Ryzen 9 5900X",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display_size": "N/A",
+            "battery_life": "N/A",
+            "price": 2299,
+            "image_url": "https://example.com/images/hp-omen-45l.jpg"
+        },
+        {
+            "brand": "Apple",
+            "model": "MacBook Pro 16-inch M2 Max",
+            "type": "Laptop",
+            "operating_system": "macOS",
+            "processor": "Apple M2 Max",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display_size": "16 inches",
+            "battery_life": "21 hours",
+            "price": 3499,
+            "image_url": "https://www.apple.com/newsroom/images/product/macbook/standard/Apple_MacBook-Pro-16.jpg"
+        },
+        {
+            "brand": "Lenovo",
+            "model": "Legion 7",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "AMD Ryzen 9 5900HX",
+            "ram": "32GB",
+            "storage": "1TB SSD",
+            "display_size": "16 inches",
+            "battery_life": "6 hours",
+            "price": 2499,
+            "image_url": "https://example.com/images/lenovo-legion-7.jpg"
+        },
+        {
+            "brand": "Acer",
+            "model": "Swift 3",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "Intel Core i7-1165G7",
+            "ram": "8GB",
+            "storage": "512GB SSD",
+            "display_size": "14 inches",
+            "battery_life": "11 hours",
+            "price": 799,
+            "image_url": "https://example.com/images/acer-swift-3.jpg"
+        },
+        {
+            "brand": "Asus",
+            "model": "Vivobook 15",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "AMD Ryzen 5 5500U",
+            "ram": "8GB",
+            "storage": "512GB SSD",
+            "display_size": "15.6 inches",
+            "battery_life": "8 hours",
+            "price": 649,
+            "image_url": "https://example.com/images/asus-vivobook-15.jpg"
+        },
+        {
+            "brand": "HP",
+            "model": "Victus 15",
+            "type": "Laptop",
+            "operating_system": "Windows 11",
+            "processor": "AMD Ryzen 5 5600H",
+            "ram": "8GB",
+            "storage": "512GB SSD",
+            "display_size": "15.6 inches",
+            "battery_life": "6 hours",
+            "price": 799,
+            "image_url": "https://example.com/images/hp-victus-15.jpg"
+        }
+    ],
+    "grocery_items": [
+        {
+            "name": "Bananas",
+            "category": "Fruits",
+            "quantity": "1 bunch",
+            "price": 1.50,
+            "image_url": "https://example.com/images/bananas.jpg"
+        },
+        {
+            "name": "Whole Milk",
+            "category": "Dairy",
+            "quantity": "1 gallon",
+            "price": 3.50,
+            "image_url": "https://example.com/images/whole-milk.jpg"
+        },
+        {
+            "name": "Brown Bread",
+            "category": "Bakery",
+            "quantity": "1 loaf",
+            "price": 2.00,
+            "image_url": "https://example.com/images/brown-bread.jpg"
+        },
+        {
+            "name": "Broccoli",
+            "category": "Vegetables",
+            "quantity": "1 head",
+            "price": 1.75,
+            "image_url": "https://example.com/images/broccoli.jpg"
+        },
+        {
+            "name": "Orange Juice",
+            "category": "Beverages",
+            "quantity": "64 oz",
+            "price": 4.50,
+            "image_url": "https://example.com/images/orange-juice.jpg"
+        },
+        {
+            "name": "Eggs",
+            "category": "Dairy",
+            "quantity": "1 dozen",
+            "price": 3.00,
+            "image_url": "https://example.com/images/eggs.jpg"
+        },
+        {
+            "name": "Rice",
+            "category": "Grains",
+            "quantity": "2 lbs",
+            "price": 2.99,
+            "image_url": "https://example.com/images/rice.jpg"
+        },
+        {
+            "name": "Cheddar Cheese",
+            "category": "Dairy",
+            "quantity": "1 lb",
+            "price": 5.99,
+            "image_url": "https://example.com/images/cheddar-cheese.jpg"
+        },
+        {
+            "name": "Apple",
+            "category": "Fruits",
+            "quantity": "1 lb",
+            "price": 1.99,
+            "image_url": "https://example.com/images/apple.jpg"
+        },
+        {
+            "name": "Carrots",
+            "category": "Vegetables",
+            "quantity": "1 lb",
+            "price": 1.25,
+            "image_url": "https://example.com/images/carrots.jpg"
+        },
+        {
+            "name": "Spaghetti",
+            "category": "Pasta",
+            "quantity": "1 lb",
+            "price": 1.50,
+            "image_url": "https://example.com/images/spaghetti.jpg"
+        },
+        {
+            "name": "Tomato Sauce",
+            "category": "Canned Goods",
+            "quantity": "15 oz",
+            "price": 1.25,
+            "image_url": "https://example.com/images/tomato-sauce.jpg"
+        },
+        {
+            "name": "Potatoes",
+            "category": "Vegetables",
+            "quantity": "5 lbs",
+            "price": 3.99,
+            "image_url": "https://example.com/images/potatoes.jpg"
+        },
+        {
+            "name": "Butter",
+            "category": "Dairy",
+            "quantity": "1 lb",
+            "price": 4.50,
+            "image_url": "https://example.com/images/butter.jpg"
+        },
+        {
+            "name": "Almonds",
+            "category": "Nuts",
+            "quantity": "1 lb",
+            "price": 7.99,
+            "image_url": "https://example.com/images/almonds.jpg"
+        },
+        {
+            "name": "Greek Yogurt",
+            "category": "Dairy",
+            "quantity": "32 oz",
+            "price": 5.99,
+            "image_url": "https://example.com/images/greek-yogurt.jpg"
+        },
+        {
+            "name": "Peanut Butter",
+            "category": "Condiments",
+            "quantity": "16 oz",
+            "price": 2.99,
+            "image_url": "https://example.com/images/peanut-butter.jpg"
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetables",
+            "quantity": "1 bunch",
+            "price": 1.75,
+            "image_url": "https://example.com/images/spinach.jpg"
+        },
+        {
+            "name": "Tuna Cans",
+            "category": "Canned Goods",
+            "quantity": "5 oz",
+            "price": 1.50,
+            "image_url": "https://example.com/images/tuna-cans.jpg"
+        },
+        {
+            "name": "Granola Bars",
+            "category": "Snacks",
+            "quantity": "12 bars",
+            "price": 4.99,
+            "image_url": "https://example.com/images/granola-bars.jpg"
+        },
+        {
+            "name": "Avocados",
+            "category": "Fruits",
+            "quantity": "2 pieces",
+            "price": 2.50,
+            "image_url": "https://example.com/images/avocados.jpg"
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetables",
+            "quantity": "1 head",
+            "price": 1.49,
+            "image_url": "https://example.com/images/lettuce.jpg"
+        },
+        {
+            "name": "Frozen Peas",
+            "category": "Frozen Foods",
+            "quantity": "16 oz",
+            "price": 1.75,
+            "image_url": "https://example.com/images/frozen-peas.jpg"
+        },
+        {
+            "name": "Honey",
+            "category": "Condiments",
+            "quantity": "12 oz",
+            "price": 4.99,
+            "image_url": "https://example.com/images/honey.jpg"
+        },
+        {
+            "name": "Olive Oil",
+            "category": "Oils",
+            "quantity": "16.9 oz",
+            "price": 7.99,
+            "image_url": "https://example.com/images/olive-oil.jpg"
+        },
+        {
+            "name": "Sugar",
+            "category": "Baking",
+            "quantity": "4 lbs",
+            "price": 3.49,
+            "image_url": "https://example.com/images/sugar.jpg"
+        },
+        {
+            "name": "Salt",
+            "category": "Spices",
+            "quantity": "26 oz",
+            "price": 1.00,
+            "image_url": "https://example.com/images/salt.jpg"
+        },
+        {
+            "name": "Pasta Sauce",
+            "category": "Canned Goods",
+            "quantity": "24 oz",
+            "price": 2.99,
+            "image_url": "https://example.com/images/pasta-sauce.jpg"
+        },
+        {
+            "name": "Bagels",
+            "category": "Bakery",
+            "quantity": "6 pieces",
+            "price": 3.49,
+            "image_url": "https://example.com/images/bagels.jpg"
+        },
+        {
+            "name": "Oatmeal",
+            "category": "Cereals",
+            "quantity": "42 oz",
+            "price": 4.99,
+            "image_url": "https://example.com/images/oatmeal.jpg"
+        },
+        {
+            "name": "Mushrooms",
+            "category": "Vegetables",
+            "quantity": "8 oz",
+            "price": 2.50,
+            "image_url": "https://example.com/images/mushrooms.jpg"
+        },
+        {
+            "name": "Grapes",
+            "category": "Fruits",
+            "quantity": "1 lb",
+            "price": 2.99,
+            "image_url": "https://example.com/images/grapes.jpg"
+        },
+        {
+            "name": "Ice Cream",
+            "category": "Frozen Foods",
+            "quantity": "1 pint",
+            "price": 4.99,
+            "image_url": "https://example.com/images/ice-cream.jpg"
+        },
+        {
+            "name": "Strawberries",
+            "category": "Fruits",
+            "quantity": "1 lb",
+            "price": 4.50,
+            "image_url": "https://example.com/images/strawberries.jpg"
+        },
+        {
+            "name": "Cereal",
+            "category": "Cereals",
+            "quantity": "18 oz",
+            "price": 3.99,
+            "image_url": "https://example.com/images/cereal.jpg"
+        },
+        {
+            "name": "Peppers",
+            "category": "Vegetables",
+            "quantity": "1 lb",
+            "price": 2.99,
+            "image_url": "https://example.com/images/peppers.jpg"
+        },
+        {
+            "name": "Cornflakes",
+            "category": "Cereals",
+            "quantity": "24 oz",
+            "price": 3.50,
+            "image_url": "https://example.com/images/cornflakes.jpg"
+        }
+    ],
+    "electronic_items": [
+        {
+            "name": "Apple iPhone 14",
+            "category": "Mobile Phone",
+            "specifications": {
+                "storage": "128 GB",
+                "ram": "6 GB",
+                "camera": "12 MP",
+                "battery": "3279 mAh"
+            },
+            "price": 799.00,
+            "image_url": "https://example.com/images/iphone14.jpg"
+        },
+        {
+            "name": "Samsung Galaxy S23",
+            "category": "Mobile Phone",
+            "specifications": {
+                "storage": "256 GB",
+                "ram": "8 GB",
+                "camera": "50 MP",
+                "battery": "3900 mAh"
+            },
+            "price": 999.00,
+            "image_url": "https://example.com/images/galaxy-s23.jpg"
+        },
+        {
+            "name": "OnePlus 11",
+            "category": "Mobile Phone",
+            "specifications": {
+                "storage": "128 GB",
+                "ram": "8 GB",
+                "camera": "50 MP",
+                "battery": "5000 mAh"
+            },
+            "price": 749.00,
+            "image_url": "https://example.com/images/oneplus11.jpg"
+        },
+        {
+            "name": "MacBook Air M2",
+            "category": "Laptop",
+            "specifications": {
+                "processor": "Apple M2",
+                "ram": "8 GB",
+                "storage": "256 GB SSD",
+                "screen_size": "13.6 inch"
+            },
+            "price": 999.00,
+            "image_url": "https://example.com/images/macbook-air-m2.jpg"
+        },
+        {
+            "name": "Dell XPS 13",
+            "category": "Laptop",
+            "specifications": {
+                "processor": "Intel Core i7",
+                "ram": "16 GB",
+                "storage": "512 GB SSD",
+                "screen_size": "13.4 inch"
+            },
+            "price": 1249.00,
+            "image_url": "https://example.com/images/dell-xps-13.jpg"
+        },
+        {
+            "name": "HP Spectre x360",
+            "category": "Laptop",
+            "specifications": {
+                "processor": "Intel Core i7",
+                "ram": "16 GB",
+                "storage": "1 TB SSD",
+                "screen_size": "13.3 inch"
+            },
+            "price": 1399.00,
+            "image_url": "https://example.com/images/hp-spectre-x360.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Tab S8",
+            "category": "Tablet",
+            "specifications": {
+                "storage": "128 GB",
+                "ram": "8 GB",
+                "screen_size": "11 inch",
+                "battery": "8000 mAh"
+            },
+            "price": 699.00,
+            "image_url": "https://example.com/images/galaxy-tab-s8.jpg"
+        },
+        {
+            "name": "Apple iPad Air",
+            "category": "Tablet",
+            "specifications": {
+                "storage": "64 GB",
+                "ram": "4 GB",
+                "screen_size": "10.9 inch",
+                "battery": "7566 mAh"
+            },
+            "price": 599.00,
+            "image_url": "https://example.com/images/ipad-air.jpg"
+        },
+        {
+            "name": "Microsoft Surface Pro 9",
+            "category": "Tablet",
+            "specifications": {
+                "processor": "Intel Core i5",
+                "ram": "8 GB",
+                "storage": "128 GB SSD",
+                "screen_size": "13 inch"
+            },
+            "price": 899.00,
+            "image_url": "https://example.com/images/surface-pro-9.jpg"
+        },
+        {
+            "name": "Sony WH-1000XM4",
+            "category": "Headphones",
+            "specifications": {
+                "type": "Over-Ear",
+                "battery_life": "30 hours",
+                "noise_cancellation": "Yes"
+            },
+            "price": 349.00,
+            "image_url": "https://example.com/images/sony-wh1000xm4.jpg"
+        },
+        {
+            "name": "Bose QuietComfort 35 II",
+            "category": "Headphones",
+            "specifications": {
+                "type": "Over-Ear",
+                "battery_life": "20 hours",
+                "noise_cancellation": "Yes"
+            },
+            "price": 299.00,
+            "image_url": "https://example.com/images/bose-qc35ii.jpg"
+        },
+        {
+            "name": "Apple AirPods Pro",
+            "category": "Earbuds",
+            "specifications": {
+                "battery_life": "4.5 hours",
+                "noise_cancellation": "Yes",
+                "water_resistant": "Yes"
+            },
+            "price": 249.00,
+            "image_url": "https://example.com/images/airpods-pro.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Buds 2",
+            "category": "Earbuds",
+            "specifications": {
+                "battery_life": "5 hours",
+                "noise_cancellation": "Yes",
+                "water_resistant": "Yes"
+            },
+            "price": 149.00,
+            "image_url": "https://example.com/images/galaxy-buds2.jpg"
+        },
+        {
+            "name": "Logitech MX Master 3",
+            "category": "Mouse",
+            "specifications": {
+                "connection": "Wireless",
+                "battery_life": "70 days",
+                "features": "Ergonomic"
+            },
+            "price": 99.99,
+            "image_url": "https://example.com/images/logitech-mx-master3.jpg"
+        },
+        {
+            "name": "Razer DeathAdder V2",
+            "category": "Mouse",
+            "specifications": {
+                "connection": "Wired",
+                "dpi": "20,000",
+                "features": "RGB Lighting"
+            },
+            "price": 69.99,
+            "image_url": "https://example.com/images/razer-deathadder-v2.jpg"
+        },
+        {
+            "name": "Samsung 55-Inch 4K Smart TV",
+            "category": "Television",
+            "specifications": {
+                "resolution": "4K UHD",
+                "smart_tv": "Yes",
+                "hdmi_ports": "3"
+            },
+            "price": 799.00,
+            "image_url": "https://example.com/images/samsung-55-inch-tv.jpg"
+        },
+        {
+            "name": "LG OLED C1 65-Inch 4K Smart TV",
+            "category": "Television",
+            "specifications": {
+                "resolution": "4K UHD",
+                "smart_tv": "Yes",
+                "hdmi_ports": "4"
+            },
+            "price": 1799.00,
+            "image_url": "https://example.com/images/lg-oled-c1-65-inch-tv.jpg"
+        },
+        {
+            "name": "Sony PlayStation 5",
+            "category": "Gaming Console",
+            "specifications": {
+                "storage": "825 GB SSD",
+                "graphics": "Custom AMD GPU",
+                "features": "4K Gaming"
+            },
+            "price": 499.00,
+            "image_url": "https://example.com/images/playstation5.jpg"
+        },
+        {
+            "name": "Microsoft Xbox Series X",
+            "category": "Gaming Console",
+            "specifications": {
+                "storage": "1 TB SSD",
+                "graphics": "Custom AMD GPU",
+                "features": "4K Gaming"
+            },
+            "price": 499.00,
+            "image_url": "https://example.com/images/xbox-series-x.jpg"
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "category": "Graphics Card",
+            "specifications": {
+                "memory": "10 GB GDDR6X",
+                "gpu": "NVIDIA Ampere",
+                "features": "Ray Tracing"
+            },
+            "price": 699.00,
+            "image_url": "https://example.com/images/rtx-3080.jpg"
+        },
+        {
+            "name": "Samsung 970 EVO Plus 1TB SSD",
+            "category": "Storage",
+            "specifications": {
+                "type": "NVMe SSD",
+                "capacity": "1 TB",
+                "read_speed": "3500 MB/s"
+            },
+            "price": 149.00,
+            "image_url": "https://example.com/images/samsung-970-evo-plus.jpg"
+        },
+        {
+            "name": "Western Digital 2TB External HDD",
+            "category": "Storage",
+            "specifications": {
+                "type": "External Hard Drive",
+                "capacity": "2 TB",
+                "connection": "USB 3.0"
+            },
+            "price": 69.99,
+            "image_url": "https://example.com/images/wd-external-hdd.jpg"
+        },
+        {
+            "name": "Canon EOS R6 Camera",
+            "category": "Camera",
+            "specifications": {
+                "resolution": "20 MP",
+                "video_resolution": "4K",
+                "features": "Dual Pixel Autofocus"
+            },
+            "price": 2499.00,
+            "image_url": "https://example.com/images/canon-eos-r6.jpg"
+        },
+        {
+            "name": "GoPro HERO10 Black",
+            "category": "Camera",
+            "specifications": {
+                "resolution": "23 MP",
+                "video_resolution": "5.3K",
+                "features": "Waterproof"
+            },
+            "price": 399.00,
+            "image_url": "https://example.com/images/gopro-hero10.jpg"
+        },
+        {
+            "name": "Fitbit Charge 5",
+            "category": "Wearable",
+            "specifications": {
+                "features": "Heart Rate Monitor, GPS",
+                "battery_life": "7 days"
+            },
+            "price": 179.00,
+            "image_url": "https://example.com/images/fitbit-charge5.jpg"
+        },
+        {
+            "name": "Apple Watch Series 8",
+            "category": "Wearable",
+            "specifications": {
+                "features": "Heart Rate Monitor, ECG",
+                "battery_life": "18 hours"
+            },
+            "price": 399.00,
+            "image_url": "https://example.com/images/apple-watch-series8.jpg"
+        },
+        {
+            "name": "Oculus Quest 2",
+            "category": "VR Headset",
+            "specifications": {
+                "resolution": "1832 x 1920 per eye",
+                "storage": "128 GB",
+                "features": "Standalone"
+            },
+            "price": 299.00,
+            "image_url": "https://example.com/images/oculus-quest2.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Z Flip4",
+            "category": "Mobile Phone",
+            "specifications": {
+                "storage": "256 GB",
+                "ram": "8 GB",
+                "camera": "12 MP",
+                "battery": "3700 mAh"
+            },
+            "price": 999.00,
+            "image_url": "https://example.com/images/galaxy-z-flip4.jpg"
+        },
+        {
+            "name": "Anker PowerCore 26800mAh Portable Charger",
+            "category": "Accessories",
+            "specifications": {
+                "capacity": "26800mAh",
+                "ports": "3 USB Ports",
+                "fast_charging": "Yes"
+            },
+            "price": 49.99,
+            "image_url": "https://example.com/images/anker-powercore.jpg"
+        },
+        {
+            "name": "Logitech C920 HD Webcam",
+            "category": "Camera",
+            "specifications": {
+                "resolution": "1080p",
+                "features": "Auto Light Correction"
+            },
+            "price": 79.99,
+            "image_url": "https://example.com/images/logitech-c920.jpg"
+        },
+        {
+            "name": "Amazon Echo Dot (4th Gen)",
+            "category": "Smart Speaker",
+            "specifications": {
+                "features": "Voice Control, Smart Home Integration"
+            },
+            "price": 49.99,
+            "image_url": "https://example.com/images/echo-dot.jpg"
+        },
+        {
+            "name": "Nest Learning Thermostat",
+            "category": "Smart Home",
+            "specifications": {
+                "features": "Smart Temperature Control, Wi-Fi Enabled"
+            },
+            "price": 249.00,
+            "image_url": "https://example.com/images/nest-thermostat.jpg"
+        }
+    ],
+    "topSellingElectronics": [
+        {
+            "id": 1,
+            "name": "Smartphone XYZ",
+            "category": "Smartphone",
+            "brand": "BrandA",
+            "price": 799.99,
+            "rating": 4.8,
+            "reviews": 1200,
+            "stock": 35
+        },
+        {
+            "id": 2,
+            "name": "Laptop Pro 15",
+            "category": "Laptop",
+            "brand": "BrandB",
+            "price": 1499.99,
+            "rating": 4.6,
+            "reviews": 950,
+            "stock": 12
+        },
+        {
+            "id": 3,
+            "name": "Wireless Noise Cancelling Headphones",
+            "category": "Headphones",
+            "brand": "BrandC",
+            "price": 299.99,
+            "rating": 4.9,
+            "reviews": 4500,
+            "stock": 48
+        },
+        {
+            "id": 4,
+            "name": "4K Ultra HD Smart TV 55-inch",
+            "category": "Television",
+            "brand": "BrandD",
+            "price": 999.99,
+            "rating": 4.7,
+            "reviews": 3000,
+            "stock": 22
+        },
+        {
+            "id": 5,
+            "name": "Smart Home Speaker",
+            "category": "Smart Home",
+            "brand": "BrandE",
+            "price": 199.99,
+            "rating": 4.5,
+            "reviews": 2000,
+            "stock": 50
+        },
+        {
+            "id": 6,
+            "name": "Fitness Tracker Watch",
+            "category": "Wearables",
+            "brand": "BrandF",
+            "price": 149.99,
+            "rating": 4.4,
+            "reviews": 3200,
+            "stock": 18
+        },
+        {
+            "id": 7,
+            "name": "Bluetooth Portable Speaker",
+            "category": "Audio",
+            "brand": "BrandG",
+            "price": 99.99,
+            "rating": 4.8,
+            "reviews": 3700,
+            "stock": 40
+        },
+        {
+            "id": 8,
+            "name": "Smartwatch Series 6",
+            "category": "Wearables",
+            "brand": "BrandH",
+            "price": 399.99,
+            "rating": 4.6,
+            "reviews": 2800,
+            "stock": 15
+        },
+        {
+            "id": 9,
+            "name": "Gaming Console X",
+            "category": "Gaming",
+            "brand": "BrandI",
+            "price": 499.99,
+            "rating": 4.9,
+            "reviews": 5600,
+            "stock": 8
+        },
+        {
+            "id": 10,
+            "name": "Wireless Gaming Mouse",
+            "category": "Computer Accessories",
+            "brand": "BrandJ",
+            "price": 79.99,
+            "rating": 4.7,
+            "reviews": 4100,
+            "stock": 60
+        },
+        {
+            "id": 11,
+            "name": "Laptop Stand",
+            "category": "Computer Accessories",
+            "brand": "BrandK",
+            "price": 39.99,
+            "rating": 4.5,
+            "reviews": 2300,
+            "stock": 100
+        },
+        {
+            "id": 12,
+            "name": "Wireless Earbuds",
+            "category": "Audio",
+            "brand": "BrandL",
+            "price": 129.99,
+            "rating": 4.7,
+            "reviews": 5600,
+            "stock": 75
+        },
+        {
+            "id": 13,
+            "name": "USB-C Hub Adapter",
+            "category": "Computer Accessories",
+            "brand": "BrandM",
+            "price": 49.99,
+            "rating": 4.4,
+            "reviews": 3200,
+            "stock": 85
+        },
+        {
+            "id": 14,
+            "name": "Curved Gaming Monitor 32-inch",
+            "category": "Monitor",
+            "brand": "BrandN",
+            "price": 449.99,
+            "rating": 4.8,
+            "reviews": 1500,
+            "stock": 25
+        },
+        {
+            "id": 15,
+            "name": "Home Security Camera",
+            "category": "Smart Home",
+            "brand": "BrandO",
+            "price": 199.99,
+            "rating": 4.5,
+            "reviews": 2600,
+            "stock": 30
+        },
+        {
+            "id": 16,
+            "name": "Electric Toothbrush",
+            "category": "Personal Care",
+            "brand": "BrandP",
+            "price": 89.99,
+            "rating": 4.6,
+            "reviews": 1900,
+            "stock": 45
+        },
+        {
+            "id": 17,
+            "name": "VR Headset",
+            "category": "Gaming",
+            "brand": "BrandQ",
+            "price": 349.99,
+            "rating": 4.7,
+            "reviews": 2900,
+            "stock": 10
+        },
+        {
+            "id": 18,
+            "name": "Smart Thermostat",
+            "category": "Smart Home",
+            "brand": "BrandR",
+            "price": 249.99,
+            "rating": 4.5,
+            "reviews": 2200,
+            "stock": 28
+        },
+        {
+            "id": 19,
+            "name": "Portable Power Bank",
+            "category": "Accessories",
+            "brand": "BrandS",
+            "price": 29.99,
+            "rating": 4.6,
+            "reviews": 4800,
+            "stock": 90
+        },
+        {
+            "id": 20,
+            "name": "Noise Cancelling Earphones",
+            "category": "Audio",
+            "brand": "BrandT",
+            "price": 149.99,
+            "rating": 4.8,
+            "reviews": 3700,
+            "stock": 33
+        }
+    ]
+}

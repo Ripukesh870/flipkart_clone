@@ -1,0 +1,60 @@
+[
+    {
+        "brand":"realme p1 5g",
+        "price":"13999",
+        "image":"../image/realmep15g.webp"
+    },
+    {
+        "brand":"vivo t2 pro",
+        "price":"20999",
+        "image":"../image/vivot2pro5g.webp"
+    },
+    {
+        "brand":"poco m6 Pro 5g",
+        "price":"9599",
+        "image":"./image/pocom6pro.webp"
+
+    },
+    {
+        "brand":"realme p1 pro 5g",
+        "price":"20999",
+        "image":"./image/realmep1pro5g.webp"
+    },
+    {
+        "brand":"Moto edge 50 Fusion",
+        "price":"19999",
+        "image":"./image/motoedge50.webp"
+    },
+    {
+        "brand":"vivo t2 pro",
+        "price":"20999",
+        "image":"./image/vivot2pro5g.webp"
+    },
+    {
+        "brand":"Nothing Phone 2a",
+        "price":"22999",
+        "image":"./image/nothingphone2a.webp"
+    },
+    {
+        "brand":"infinix Gt Pro",
+        "price":"17999",
+        "image":"./image/infinixgt20pro.webp"
+    },
+    {
+        "brand":"Vivo t3x 5g",
+        "price":"12499",
+        "image":"./image/vivot3x5g.webp"
+    },
+    {
+        "brand":"infinix Gt Pro",
+        "price":"17999",
+        "image":"./image/infinixgt20pro.webp"
+    },
+    {
+        "brand":"Vivo t3x 5g",
+        "price":"12499",
+        "image":"./image/vivot3x5g.webp"
+    }
+
+    
+]

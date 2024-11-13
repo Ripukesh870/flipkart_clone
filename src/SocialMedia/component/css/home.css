@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.home-container{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(241, 241, 243);
+    border-bottom: 1px solid rgb(215, 215, 215) ;
+}
+.inner-box{
+    display: flex;
+}
+
+.box{
+    /* border: 2px solid red; */
+}
+
+.box1 img{
+    margin: 24px 20px 12px;
+    height: 60px;
+    width: 120px;
+}
+
+.box2{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(232, 231, 231);
+    height: fit-content;
+    border-radius: 20px;
+    padding: 0px 10px ;
+    /* margin: 20px ;
+    margin-top: 30px; */
+    margin: auto 20px;
+}
+.box2-div{
+    border-right:2px solid rgb(225, 225, 223);
+    /* padding-top: 6px; */
+    
+}
+.dropdown{
+    /* border: 2px solid red; */
+    border:none;
+    outline: none;
+    margin: 9px 0px;
+}
+.dropdown .button{
+    background-color: white;
+    border: none;
+    outline: none;
+    margin: 0px 10px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.box2 input{
+   border: 2px solid rgb(255, 98, 0);
+   border: none;
+   background-color: white;
+   /* font-size: 17px; */
+   margin: 5px 5px;
+   outline: none;
+
+}
+.box2 .search{
+    background-color: rgb(102, 190, 75);
+    /* padding: 5px 8px; */
+    border-radius: 50px;
+    margin-right: -5px;
+    /* border: 2px solid red; */
+    width: 33px;
+    height: 33px;
+
+}
+
+
+.box3{
+    border: 2px solid rgb(229, 229, 229);
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    /* border: 2px solid rgb(0, 0, 0); */
+    /* height: fit-content; */
+    border-radius: 20px;
+    padding: 0px 10px ;
+    margin: 20px ;
+    /* margin-top: 30px; */
+    height: 53px;
+    margin: auto 2px;
+}
+.home-loc{
+    /* border: 2px solid red; */
+    margin: 0;
+   /* height: 50px; */
+   /* border: none; */
+
+}
+.h-l-icon{
+    margin: 3px 0px;
+    /* border: 2px solid red; */
+    text-align: center;
+    align-items: center;
+    /* margin: center 0px; */
+    font-size: 30px;
+    margin-top: 6px;
+    /* padding: 0; */
+}
+
+.home-loc span{
+    font-size: smaller;
+    text-align: center;
+    font-weight: bold;
+    /* border: 2px solid red; */
+    display: block;
+}
+
+.home-loc select{
+    margin-top: -5px;
+    padding: 0px 10px;
+    border: none;
+    text-align: center;
+    outline: none;
+    overflow: hidden;
+    font-size: 14px;
+
+}
+
+.box4{
+    /* border: 2px solid rgb(0, 0, 0); */
+    border: none;
+    margin: auto 10px;
+
+}
+
+.box4 button{
+    /* border: 2px solid rgb(195, 193, 193); */
+    border: none;
+    background-color: white;
+    margin: 0px 5px;
+    padding: 3px 15px;
+    border-radius: 20px;
+    /* background-color: white; */
+}
+
+.box4 Badge{
+    /* margin: 0px 10px;
+    border: 2px solid red; */
+}
+
+.home-container2{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    border-bottom: 3px solid rgb(215, 215, 215);
+    background-color: rgb(248, 247, 247);
+    /* position: absolute; */
+}
+.h-c2-box{
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid red; */
+    margin: auto 5px;
+}
+.H-btn{
+    margin: auto 5px;
+    background-color: rgb(226, 226, 226);
+    border: none;
+    padding: 4px 20px;
+    margin: 5px 8px;
+    border-radius: 20px;
+}
+
+.home-container3{
+    /* border: 2px solid red; */
+}
+
+.home-container4-b1{
+    /* border: 2px solid red; */
+    display: flex;
+    /* padding: 10px; */
+    overflow: hidden;
+    /* overflow-y: hidden; */
+    overflow-x: scroll;
+    scrollbar-width: none;
+    justify-content: space-evenly;
+}
+
+.h-card{
+    /* border: 2px solid rgb(215, 215, 215); */
+    width: 200px;
+    margin: 40px 20px 5px;
+    text-align: center;
+    border-radius: 20px;
+    padding:10px;
+    /* background-color: aliceblue; */
+}
+.h-card:hover{
+    border: 2px solid rgb(215, 215, 215);
+
+    background-color: rgb(235, 235, 235);
+}
+
+.h-card img{
+    width: 170px;
+    background-color: rgb(209, 209, 208);
+    border: 2px solid rgb(181, 181, 181);
+    height: 170px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+
+.home-container5{
+    /* border: 2px solid red; */
+    text-align: center;
+}
+.home-container5-box1{
+    display: flex;
+    /* border: 2px solid red; */
+    margin: 15px;
+    /* flex-wrap: wrap; */
+    /* justify-content: space-evenly; */
+    overflow-x: scroll;
+    scrollbar-width: none;
+
+}
+.t-s-p-card{
+    border: 3px solid rgb(204, 204, 206);
+    background-color: rgb(248, 252, 255);
+    border-radius: 10px;
+    width: 280px;
+    margin: 10px 20px;
+    background-color: rgb(240, 244, 247);
+}
+
+.t-s-p-card img{
+    width: 280px;
+    height: 250px;
+    padding: 10px;
+
+}
+.h-t-s-p-btn{
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: 10px;
+    background-color: rgb(205, 202, 202);
+    border-radius: 18px;
+    font-weight: bold;
+}
+
+.h-t-s-p-btn:hover {
+    background-color: rgb(104, 237, 104);
+    font-size: 20px;
+}
+
+
+.home-container7{
+    /* border: 2px solid red; */
+    /* display: flex; */
+    text-align: center;
+}
+
+.h-f-o-btn{
+    /* border: 2px solid red; */
+    width: 70%;
+    background-color: rgb(152, 151, 149);
+    border-radius: 20px;
+}
+
+.h-f-o-btn:hover{
+    background-color: rgb(116, 115, 115);
+}
+
+.home-container8{
+    border: 2px solid red;
+}
+
+.footer{
+    border: 2px solid red;
+    padding: 20px;
+}
+
+.footer-box{
+    /* border: 2px solid red; */
+    display: flex;
+}
