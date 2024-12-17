@@ -13,10 +13,10 @@ import { YouTube } from '@mui/icons-material';
 
 function Footer() {
 
-  const defaultCenter = {
-    lat: 0, // Latitude
-    lng: 0 // Longitude
-  };
+//   const defaultCenter = {
+//     lat: 0, // Latitude
+//     lng: 0 // Longitude
+//   };
   return (
     <>
       <div className='SC_Footer'>
